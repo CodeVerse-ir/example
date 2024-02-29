@@ -3,7 +3,7 @@
 // import database information
 include 'env.php';
 
-$tableName = 'user';
+$tableName = 'users';
 
 // connect to database
 $conn = new mysqli($servername, $username, $password, $dbname);
