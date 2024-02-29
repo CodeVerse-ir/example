@@ -4,7 +4,7 @@
 include 'env.php';
 
 // variable
-$tableName = 'user';
+$tableName = 'users';
 $id = $_GET['id'];
 
 // connect to database
